@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "appWebSocketChat": {
+      "commandName": "Project",
+      "commandLineArgs": "8181"
+    }
+  }
+}

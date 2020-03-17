@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appWebSocketChat", "appWebSocketChat\appWebSocketChat.csproj", "{406F4D37-2517-4386-B55B-48D17792AE25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406F4D37-2517-4386-B55B-48D17792AE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406F4D37-2517-4386-B55B-48D17792AE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406F4D37-2517-4386-B55B-48D17792AE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406F4D37-2517-4386-B55B-48D17792AE25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {026B965A-B777-4913-A2FB-07A3FA7DC9CC}
+	EndGlobalSection
+EndGlobal
